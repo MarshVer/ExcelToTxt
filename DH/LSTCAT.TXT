@@ -1,0 +1,4 @@
+﻿Category;AbrevCat;
+"女子";"WA";
+"男子";"MB";
+"男女";"MC";
